@@ -1,3 +1,3 @@
 # Is this us? 🥺
 
-![Is this us?](./us.jpeg)
+![Is this us?](./us.webp)
